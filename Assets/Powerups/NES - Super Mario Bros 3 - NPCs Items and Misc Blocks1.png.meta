@@ -1,0 +1,3060 @@
+fileFormatVersion: 2
+guid: 807134124b196f84f92e557f2f05bbe5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8239284991525704912
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_0
+  - first:
+      213: 4206047397982697714
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_1
+  - first:
+      213: -6107375557106567133
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_2
+  - first:
+      213: -7603898637686512281
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_3
+  - first:
+      213: -9026381676510875565
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_4
+  - first:
+      213: 8913536258110428680
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_5
+  - first:
+      213: -3426540953713865428
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_6
+  - first:
+      213: 8774823759516213314
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_7
+  - first:
+      213: 2445538430819902198
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_8
+  - first:
+      213: -1761250832660298974
+    second: cloud1
+  - first:
+      213: 782628058829158676
+    second: cloud2
+  - first:
+      213: 6040821704518795728
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_11
+  - first:
+      213: -7466902621655310085
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_12
+  - first:
+      213: -5944212115571613415
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_13
+  - first:
+      213: 6660831122732719973
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_14
+  - first:
+      213: -6667245724365674511
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_15
+  - first:
+      213: -8977654225590166197
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_16
+  - first:
+      213: -6431919662466656022
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_17
+  - first:
+      213: -5774547436399081193
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_18
+  - first:
+      213: -357058052663774458
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_19
+  - first:
+      213: -8656529259113580425
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_20
+  - first:
+      213: 7538399346763029910
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_21
+  - first:
+      213: -3743243626262731100
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_22
+  - first:
+      213: -566268857070351862
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_23
+  - first:
+      213: 8311956265503471219
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_24
+  - first:
+      213: -1260743697445721727
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_25
+  - first:
+      213: -4875319128134501262
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_26
+  - first:
+      213: 5507776906751664434
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_27
+  - first:
+      213: -198087420180851274
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_28
+  - first:
+      213: -3984789745418799027
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_29
+  - first:
+      213: 3222506038228735237
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_30
+  - first:
+      213: 3470579755530469082
+    second: coin1
+  - first:
+      213: 9080751212159984233
+    second: fireflower
+  - first:
+      213: -6239027978437954008
+    second: coin2
+  - first:
+      213: 3757817153388183296
+    second: coin3
+  - first:
+      213: -2972587970809898881
+    second: coin4
+  - first:
+      213: -695503510148507806
+    second: coin5
+  - first:
+      213: -1762952610438690166
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_37
+  - first:
+      213: -4970978762464814415
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_38
+  - first:
+      213: -2277070949083358279
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_39
+  - first:
+      213: 8827957373536400761
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_40
+  - first:
+      213: 5436112967416631780
+    second: redmushrron
+  - first:
+      213: 2606541327533938080
+    second: leaf
+  - first:
+      213: 1852680497413412318
+    second: star1
+  - first:
+      213: 2252613035142974134
+    second: star2
+  - first:
+      213: 7024285120380447825
+    second: star3
+  - first:
+      213: -2798047362225284278
+    second: greenleaf
+  - first:
+      213: -2192706378506641930
+    second: greenmushroom
+  - first:
+      213: -5456202464267762948
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_48
+  - first:
+      213: 7728851521837949050
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_49
+  - first:
+      213: 8923169527979282240
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_50
+  - first:
+      213: -5465102216103472736
+    second: pow1
+  - first:
+      213: -203080902938953121
+    second: pow2
+  - first:
+      213: -5952009481416416506
+    second: pow3
+  - first:
+      213: 1400019389126464043
+    second: questioncoin
+  - first:
+      213: -1594827650907620076
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_55
+  - first:
+      213: 5876419481838424592
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_56
+  - first:
+      213: -6850049705384510053
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_57
+  - first:
+      213: -389321371940327519
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_58
+  - first:
+      213: -3139633127728835028
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_59
+  - first:
+      213: 1667507460387153495
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_60
+  - first:
+      213: 7308625699351932760
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_61
+  - first:
+      213: -9089772752879647911
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_62
+  - first:
+      213: 4461058798504097628
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_63
+  - first:
+      213: 3384451678001044256
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_64
+  - first:
+      213: 3627908603568989662
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_65
+  - first:
+      213: -9201818618983950041
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_66
+  - first:
+      213: -2390811298470385009
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_67
+  - first:
+      213: -1664132219414427664
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_68
+  - first:
+      213: 4428331191661061470
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_69
+  - first:
+      213: -673034145836354842
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_70
+  - first:
+      213: -1770811529350137803
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_71
+  - first:
+      213: 999053284175370160
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_72
+  - first:
+      213: 2886599794845931424
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_73
+  - first:
+      213: -951242084180674
+    second: undreakableplatform
+  - first:
+      213: 5606533860296113488
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_75
+  - first:
+      213: -8918682021752846902
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_76
+  - first:
+      213: -6406552738581291574
+    second: questionbox1
+  - first:
+      213: -4065629648469739778
+    second: questionbox2
+  - first:
+      213: -2301412139322767225
+    second: questionbox3
+  - first:
+      213: -4628483037244116118
+    second: questionbox4
+  - first:
+      213: -5397576356702169636
+    second: questionbox5
+  - first:
+      213: 6211501177144196792
+    second: unbreakablebox
+  - first:
+      213: -1725495493352599079
+    second: breakablebox1
+  - first:
+      213: 2366770356624606321
+    second: breakablebox2
+  - first:
+      213: 6480068729821046145
+    second: breakablebox3
+  - first:
+      213: -7916585425375956349
+    second: breakablebox4
+  - first:
+      213: 7401783559934584206
+    second: musicnote1
+  - first:
+      213: -6427156078068463206
+    second: musicnote2
+  - first:
+      213: -5737788485411485911
+    second: musicnote3
+  - first:
+      213: 1892484743993598359
+    second: musicnote4
+  - first:
+      213: -2997197432772109582
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_91
+  - first:
+      213: 7765712654137787683
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_92
+  - first:
+      213: -1556409291433536411
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_93
+  - first:
+      213: -4803944760624597551
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_94
+  - first:
+      213: 7022747030992618552
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_95
+  - first:
+      213: -6094018643016614973
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_96
+  - first:
+      213: 3674298422470233409
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_97
+  - first:
+      213: -5471047041760434211
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_98
+  - first:
+      213: 2730325186284445371
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_99
+  - first:
+      213: -7195343171303054193
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_100
+  - first:
+      213: -4210689800319269707
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_101
+  - first:
+      213: -8889032694560015721
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_102
+  - first:
+      213: -2444345295530822508
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_103
+  - first:
+      213: -5543384210036372404
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_104
+  - first:
+      213: 1088617404496949086
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_105
+  - first:
+      213: -1805096772317276179
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_106
+  - first:
+      213: 254104328418131350
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_107
+  - first:
+      213: 8743362978466086436
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_108
+  - first:
+      213: -3852407227517880228
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_109
+  - first:
+      213: -9001097574802208375
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_110
+  - first:
+      213: -5515160859590149484
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_111
+  - first:
+      213: -7149410138966287909
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_112
+  - first:
+      213: -990885036429313182
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_113
+  - first:
+      213: -367827872429798281
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_114
+  - first:
+      213: -5470458948956300904
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_115
+  - first:
+      213: -228570532503253932
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_116
+  - first:
+      213: 5503057685500792413
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_117
+  - first:
+      213: 7804248159477892337
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_118
+  - first:
+      213: -931286481860568988
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_119
+  - first:
+      213: -3807142561132606976
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_120
+  - first:
+      213: -2484111819597810121
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_121
+  - first:
+      213: 7016609509644387491
+    second: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_122
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 357
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4d813db02d75270800000000000000
+      internalID: 8239284991525704912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 357
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8f639e2d1ee5a30800000000000000
+      internalID: 4206047397982697714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 388
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32872c00a4e3e3ba0800000000000000
+      internalID: -6107375557106567133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 392
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7656e98e976897690800000000000000
+      internalID: -7603898637686512281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 388
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350797460b9dbb280800000000000000
+      internalID: -9026381676510875565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 388
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8069c35300e33bb70800000000000000
+      internalID: 8913536258110428680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 344
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d8e8d382b7270d0800000000000000
+      internalID: -3426540953713865428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 357
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2402f90e7bf66c970800000000000000
+      internalID: 8774823759516213314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 357
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2269dee3c40f120800000000000000
+      internalID: 2445538430819902198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 355
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2230ceef2b7ce87e0800000000000000
+      internalID: -1761250832660298974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 355
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419f3cda2147cda00800000000000000
+      internalID: 782628058829158676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_11
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 358
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d10059a55f45d350800000000000000
+      internalID: 6040821704518795728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 357
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf06dcf70ab306890800000000000000
+      internalID: -7466902621655310085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 300
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911e7cd139ae18da0800000000000000
+      internalID: -5944212115571613415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 300
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f99539d96007c50800000000000000
+      internalID: 6660831122732719973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 301
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f721f8965f2973a0800000000000000
+      internalID: -6667245724365674511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 301
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dd9672c07f86380800000000000000
+      internalID: -8977654225590166197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 318
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae813de052b3db6a0800000000000000
+      internalID: -6431919662466656022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 318
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7194ac293bfacdfa0800000000000000
+      internalID: -5774547436399081193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 318
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60378c6c7997b0bf0800000000000000
+      internalID: -357058052663774458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 318
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77872cac084ddd780800000000000000
+      internalID: -8656529259113580425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dd8d60446cd9860800000000000000
+      internalID: 7538399346763029910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 318
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a66dd421c35d0cc0800000000000000
+      internalID: -3743243626262731100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 318
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a84f689753428f0800000000000000
+      internalID: -566268857070351862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 318
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376bae15f200a5370800000000000000
+      internalID: 8311956265503471219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1896fe07940f08ee0800000000000000
+      internalID: -1260743697445721727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 296
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c30e06513675cb0800000000000000
+      internalID: -4875319128134501262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 296
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231680d4aed8f6c40800000000000000
+      internalID: 5507776906751664434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_28
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b595a57a80404df0800000000000000
+      internalID: -198087420180851274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4871bfb6de23b8c0800000000000000
+      internalID: -3984789745418799027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_30
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505dc2f0b24a8bc20800000000000000
+      internalID: 3222506038228735237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 297
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade3e0556e9f92030800000000000000
+      internalID: 3470579755530469082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireflower
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 275
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9626e769d1f450e70800000000000000
+      internalID: 9080751212159984233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 297
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8267b710c158a69a0800000000000000
+      internalID: -6239027978437954008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 296
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f729e8ac2762430800000000000000
+      internalID: 3757817153388183296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 296
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78d6407dfe3fb6d0800000000000000
+      internalID: -2972587970809898881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin5
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 296
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2679f811e331956f0800000000000000
+      internalID: -695503510148507806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_37
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 251
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a44faf0fbb887e0800000000000000
+      internalID: -1762952610438690166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_38
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 251
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba16452729830bb0800000000000000
+      internalID: -4970978762464814415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_39
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 249
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb568749083660e0800000000000000
+      internalID: -2277070949083358279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 249
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9757ded6574338a70800000000000000
+      internalID: 8827957373536400761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushrron
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e153cd21f3f07b40800000000000000
+      internalID: 5436112967416631780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 275
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a51900078b4c2420800000000000000
+      internalID: 2606541327533938080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5de92b81b06b910800000000000000
+      internalID: 1852680497413412318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba8c10ee93e24f10800000000000000
+      internalID: 2252613035142974134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ca659c9164b7160800000000000000
+      internalID: 7024285120380447825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenleaf
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 275
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bd7ddafb65b29d0800000000000000
+      internalID: -2798047362225284278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenmushroom
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdd06c8a21f191e0800000000000000
+      internalID: -2192706378506641930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_48
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 275
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf285b654cca744b0800000000000000
+      internalID: -5456202464267762948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_49
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7063e88285624b60800000000000000
+      internalID: 7728851521837949050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_50
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f8bc1a86775db70800000000000000
+      internalID: 8923169527979282240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pow1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1d3f36d7e0824b0800000000000000
+      internalID: -5465102216103472736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pow2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a78a7aef28e2df0800000000000000
+      internalID: -203080902938953121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pow3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 252
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603ea6869e6366da0800000000000000
+      internalID: -5952009481416416506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questioncoin
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22da8f773edd6310800000000000000
+      internalID: 1400019389126464043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_55
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d3ea583b80ed9e0800000000000000
+      internalID: -1594827650907620076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0121a26526c3d8150800000000000000
+      internalID: 5876419481838424592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d79c8061cbfe0a0800000000000000
+      internalID: -6850049705384510053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_58
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 252
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af6702664ad89af0800000000000000
+      internalID: -389321371940327519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_59
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c269ca80e48cd64d0800000000000000
+      internalID: -3139633127728835028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_60
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 252
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756a0bc433d242710800000000000000
+      internalID: 1667507460387153495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_61
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fa92ec9547d6560800000000000000
+      internalID: 7308625699351932760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_62
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 197
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953859747d3aad180800000000000000
+      internalID: -9089772752879647911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 197
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57b7fe675dd8ed30800000000000000
+      internalID: 4461058798504097628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_64
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b1aba9edcf7fe20800000000000000
+      internalID: 3384451678001044256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_65
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5205947abe85230800000000000000
+      internalID: 3627908603568989662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_66
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d2e728b29c4080800000000000000
+      internalID: -9201818618983950041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_67
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aaea58ac122ded0800000000000000
+      internalID: -2390811298470385009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_68
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7458a3090d7e8e0800000000000000
+      internalID: -1664132219414427664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_69
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e556dbaa1c7947d30800000000000000
+      internalID: 4428331191661061470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_70
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e237bf9207e8a6f0800000000000000
+      internalID: -673034145836354842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_71
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5383be4db40dc67e0800000000000000
+      internalID: -1770811529350137803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_72
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7d5f23ba95ddd00800000000000000
+      internalID: 999053284175370160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_73
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7d18438334f0820800000000000000
+      internalID: 2886599794845931424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undreakableplatform
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 229
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d1a71b9de9cfff0800000000000000
+      internalID: -951242084180674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 197
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d362c57d86ecd40800000000000000
+      internalID: 5606533860296113488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_76
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 197
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac542c454f97a3480800000000000000
+      internalID: -8918682021752846902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questionbox1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd5e064a3a5717a0800000000000000
+      internalID: -6406552738581291574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questionbox2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef63aa6106bf397c0800000000000000
+      internalID: -4065629648469739778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questionbox3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78805e94addbf00e0800000000000000
+      internalID: -2301412139322767225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questionbox4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63b42c433354cfb0800000000000000
+      internalID: -4628483037244116118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questionbox5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd558b2b6e4f715b0800000000000000
+      internalID: -5397576356702169636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unbreakablebox
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beb991296fa33650800000000000000
+      internalID: 6211501177144196792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakablebox1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d15e29adfecd08e0800000000000000
+      internalID: -1725495493352599079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakablebox2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174c883891578d020800000000000000
+      internalID: 2366770356624606321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakablebox3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185a9194d24dde950800000000000000
+      internalID: 6480068729821046145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakablebox4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3827e6edf73a22290800000000000000
+      internalID: -7916585425375956349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicnote1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e852a327eea68b660800000000000000
+      internalID: 7401783559934584206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicnote2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a998cba79972ec6a0800000000000000
+      internalID: -6427156078068463206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicnote3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927c8bac5c74f50b0800000000000000
+      internalID: -5737788485411485911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicnote4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791a59c09d4734a10800000000000000
+      internalID: 1892484743993598359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_91
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 140
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fad7e190d0d766d0800000000000000
+      internalID: -2997197432772109582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_92
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 140
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32583a1b38a55cb60800000000000000
+      internalID: 7765712654137787683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_93
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5649cf2eef5866ae0800000000000000
+      internalID: -1556409291433536411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_94
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d53f5e41b5f45db0800000000000000
+      internalID: -4803944760624597551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_95
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8348eb1773fc57160800000000000000
+      internalID: 7022747030992618552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_96
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbf268e452bd6ba0800000000000000
+      internalID: -6094018643016614973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_97
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dcd1ea2fabdf230800000000000000
+      internalID: 3674298422470233409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_98
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 171
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7ea6ec3bfe214b0800000000000000
+      internalID: -5471047041760434211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_99
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe59c18a4014e520800000000000000
+      internalID: 2730325186284445371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_100
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 140
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84e27d1281052c90800000000000000
+      internalID: -7195343171303054193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_101
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 140
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b40c909fef9095c0800000000000000
+      internalID: -4210689800319269707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_102
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 125
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79abae34cdfc3a480800000000000000
+      internalID: -8889032694560015721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_103
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 133
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494fc7787e0f31ed0800000000000000
+      internalID: -2444345295530822508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_104
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 133
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cc54b5e61f113b0800000000000000
+      internalID: -5543384210036372404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_105
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 133
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f295bf2cb8b1f00800000000000000
+      internalID: 1088617404496949086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_106
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 98
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de713d4ac0203f6e0800000000000000
+      internalID: -1805096772317276179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_107
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d70475a82c68300800000000000000
+      internalID: 254104328418131350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_108
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 118
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eb5c9fd4aa65970800000000000000
+      internalID: 8743362978466086436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_109
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5836a99900898ac0800000000000000
+      internalID: -3852407227517880228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_110
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989c841127da51380800000000000000
+      internalID: -9001097574802208375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_111
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 62
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49abdf43b663673b0800000000000000
+      internalID: -5515160859590149484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_112
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 62
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd996599b5138cc90800000000000000
+      internalID: -7149410138966287909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b716e2f4baf32f0800000000000000
+      internalID: -990885036429313182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_114
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c8555bf7635eaf0800000000000000
+      internalID: -367827872429798281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_115
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8995a15d1960514b0800000000000000
+      internalID: -5470458948956300904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_116
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c850ccf44f3dcf0800000000000000
+      internalID: -228570532503253932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_117
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e02cafec9ce5c40800000000000000
+      internalID: 5503057685500792413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_118
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f40da43a524e4c60800000000000000
+      internalID: 7804248159477892337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_119
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468d39001e76313f0800000000000000
+      internalID: -931286481860568988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_120
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a8b6203005a2bc0800000000000000
+      internalID: -3807142561132606976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_121
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 5
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736f5822679a68dd0800000000000000
+      internalID: -2484111819597810121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - NPCs Items and Misc Blocks1_122
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 5
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a44bf56c21006160800000000000000
+      internalID: 7016609509644387491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

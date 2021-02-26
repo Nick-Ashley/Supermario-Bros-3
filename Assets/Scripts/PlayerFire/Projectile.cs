@@ -31,16 +31,29 @@ public class Projectile : MonoBehaviour
         }
     }
 
-    void OnCollisionEnter2D(Collision2D col)
+    
+    private void OnCollisionEnter2D(Collision2D collision)
+
     {
-
-        if (col.gameObject.tag != "Mario")
+       
+        if (gameObject.tag == "MarioProjectile")
         {
-            Debug.Log("destroy");
-            Destroy(gameObject);
+
+
+            if (collision.gameObject.tag == "Enemey" || collision.gameObject.tag == "Squish")
+            {
+                
+                collision.gameObject.GetComponent<EnemyWalker>().IsDead();
+                Destroy(gameObject);
+            }
+            if (collision.gameObject.layer == LayerMask.NameToLayer("ground"))
+                Destroy(gameObject);
         }
-
-
+        if(gameObject.tag == "EnemyProjectile") 
+        {
+            if (collision.gameObject.layer == LayerMask.NameToLayer("ground"))
+                Destroy(gameObject);
+        }
     }
 
 }

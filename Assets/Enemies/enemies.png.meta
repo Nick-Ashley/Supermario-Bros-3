@@ -469,13 +469,13 @@ TextureImporter:
     second: enemies_154
   - first:
       213: 3220049713106069138
-    second: enemies_155
+    second: koopa1
   - first:
       213: 9202424225191916221
-    second: enemies_156
+    second: koopa2
   - first:
       213: 5730899517914627372
-    second: enemies_157
+    second: koopa3
   - first:
       213: -4549975877775080454
     second: enemies_158
@@ -487,37 +487,37 @@ TextureImporter:
     second: enemies_160
   - first:
       213: 5153448190964409814
-    second: enemies_161
+    second: hammer1
   - first:
       213: 4574201873211354060
-    second: enemies_162
+    second: hammer2
   - first:
       213: -4975838365505706048
-    second: enemies_163
+    second: hammer3
   - first:
       213: -6290278741569855367
-    second: enemies_164
+    second: hammer4
   - first:
       213: -8223139895004800916
-    second: enemies_165
+    second: hammer5
   - first:
       213: -2204504141847190143
-    second: enemies_166
+    second: hammer6
   - first:
       213: 8539245964365713388
-    second: enemies_167
+    second: hammer7
   - first:
       213: 6946569578345224501
-    second: enemies_168
+    second: hammer8
   - first:
       213: -8196423631230817959
-    second: enemies_169
+    second: koopaG2
   - first:
       213: -2588703479434965918
-    second: enemies_170
+    second: koopaG
   - first:
       213: 1547570183778765006
-    second: enemies_171
+    second: koopaG3
   - first:
       213: 8597766156766843973
     second: enemies_172
@@ -529,16 +529,16 @@ TextureImporter:
     second: enemies_174
   - first:
       213: -7791746931790511186
-    second: enemies_175
+    second: boomerang1
   - first:
       213: 2696674833795706445
-    second: enemies_176
+    second: boomerang2
   - first:
       213: -7382008350427806452
-    second: enemies_177
+    second: boomerang3
   - first:
       213: -9004969059771711471
-    second: enemies_178
+    second: boomerang4
   - first:
       213: -1115400923130427973
     second: enemies_179
@@ -4681,7 +4681,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_155
+      name: koopa1
       rect:
         serializedVersion: 2
         x: 14
@@ -4702,7 +4702,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_156
+      name: koopa2
       rect:
         serializedVersion: 2
         x: 63
@@ -4723,7 +4723,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_157
+      name: koopa3
       rect:
         serializedVersion: 2
         x: 113
@@ -4807,7 +4807,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_161
+      name: hammer1
       rect:
         serializedVersion: 2
         x: 304
@@ -4828,7 +4828,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_162
+      name: hammer2
       rect:
         serializedVersion: 2
         x: 327
@@ -4849,7 +4849,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_163
+      name: hammer3
       rect:
         serializedVersion: 2
         x: 352
@@ -4870,7 +4870,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_164
+      name: hammer4
       rect:
         serializedVersion: 2
         x: 373
@@ -4891,7 +4891,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_165
+      name: hammer5
       rect:
         serializedVersion: 2
         x: 304
@@ -4912,7 +4912,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_166
+      name: hammer6
       rect:
         serializedVersion: 2
         x: 327
@@ -4933,7 +4933,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_167
+      name: hammer7
       rect:
         serializedVersion: 2
         x: 352
@@ -4954,7 +4954,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_168
+      name: hammer8
       rect:
         serializedVersion: 2
         x: 373
@@ -4975,7 +4975,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_169
+      name: koopaG2
       rect:
         serializedVersion: 2
         x: 14
@@ -4996,7 +4996,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_170
+      name: koopaG
       rect:
         serializedVersion: 2
         x: 63
@@ -5017,7 +5017,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_171
+      name: koopaG3
       rect:
         serializedVersion: 2
         x: 113
@@ -5101,7 +5101,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_175
+      name: boomerang1
       rect:
         serializedVersion: 2
         x: 301
@@ -5122,7 +5122,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_176
+      name: boomerang2
       rect:
         serializedVersion: 2
         x: 327
@@ -5143,7 +5143,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_177
+      name: boomerang3
       rect:
         serializedVersion: 2
         x: 300
@@ -5164,7 +5164,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemies_178
+      name: boomerang4
       rect:
         serializedVersion: 2
         x: 327

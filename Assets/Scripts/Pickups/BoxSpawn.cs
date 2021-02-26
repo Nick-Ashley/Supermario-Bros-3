@@ -13,9 +13,9 @@ public class BoxSpawn : MonoBehaviour
         Instantiate(pickuplist[Random.Range(0, pickuplist.Length)].gameObject, transform.position, Quaternion.identity);
 
     }
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnCollisionEnter2D(Collision2D other)
     {
-        if (collision.gameObject.tag == "Mario")
+        if (other.collider.GetComponent<PlayerMovement>() && other.contacts[0].normal.y > 0.5f)
         {
             isQbox = true;
             Debug.Log("Spawn Stuff");

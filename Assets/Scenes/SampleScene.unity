@@ -4405,6 +4405,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1324216741}
     m_Modifications:
     - target: {fileID: 870830916, guid: d1c916c627475ed48a60771efea970d9, type: 3}
+      propertyPath: isCrouch
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 870830916, guid: d1c916c627475ed48a60771efea970d9, type: 3}
       propertyPath: jumpForce
       value: 190
       objectReference: {fileID: 0}

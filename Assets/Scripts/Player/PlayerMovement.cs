@@ -20,7 +20,7 @@ public class PlayerMovement : MonoBehaviour
     public float groundCheckRadius;
     public bool isFire;
     private Vector3 initialScale;
-    //public bool isCape;
+    public bool isCrouch;
 
 
     int _score = 0;
@@ -103,15 +103,21 @@ public class PlayerMovement : MonoBehaviour
         {
             isFire = false;
         }
-        /*
-        if (Input.GetButtonDown("Jump") && Input.GetKeyDown(KeyCode.W))
+        
+        if (Input.GetKey(KeyCode.LeftShift))
         {
-            isCape = true;
+            isCrouch = true;
 
         }
-        if (Input.GetButtonUp("Jump") && Input.GetKeyUp(KeyCode.W))
+        else 
         {
-            isCape = false;
+            isCrouch = false;
+        };
+
+        /*
+        if (Input.GetKeyUp(KeyCode.LeftShift))
+        {
+            isCrouch = false;
 
         }
         */
@@ -120,7 +126,7 @@ public class PlayerMovement : MonoBehaviour
         anim.SetFloat("speed", Mathf.Abs(horizontalInput));
         anim.SetBool("isGrounded", isGrounded);
         anim.SetBool("isFire", isFire);
-        //anim.SetBool("isCape", isCape);
+        anim.SetBool("isCrouch", isCrouch);
 
 
         if (MarioSprite.flipX && horizontalInput < 0 || !MarioSprite.flipX && horizontalInput > 0)

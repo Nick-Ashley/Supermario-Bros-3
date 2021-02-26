@@ -104,7 +104,7 @@ public class PlayerMovement : MonoBehaviour
             isFire = false;
         }
         
-        if (Input.GetKey(KeyCode.LeftShift))
+        if (Input.GetKey(KeyCode.LeftShift) && Input.GetKey(KeyCode.F))
         {
             isCrouch = true;
 

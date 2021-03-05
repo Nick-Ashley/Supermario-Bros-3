@@ -78,7 +78,7 @@ public class EnemyTurrent : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         
-        if(collision.gameObject.tag=="PlayerProjectile")
+        if(collision.gameObject.tag=="MarioProjectile" )
         {
             health--;
             Destroy(collision.gameObject);
@@ -87,6 +87,11 @@ public class EnemyTurrent : MonoBehaviour
                 Destroy(gameObject);
             }
         }
+        if (collision.collider.GetComponent<PlayerMovement>() && collision.contacts[0].normal.y < 0.5f)
+        {
+            Destroy(gameObject);
+            Debug.Log("Destroy turrent");
+        }
     }
-
+    
 }

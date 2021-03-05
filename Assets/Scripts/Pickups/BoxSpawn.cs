@@ -2,16 +2,22 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//[RequireComponent(typeof(Rigidbody2D))]
 public class BoxSpawn : MonoBehaviour
 {
+   
+   
     public Pickups[] pickuplist;
     private bool isQbox = false;
+
+   
+    
 
     public void StartBoxSpawn()
     {
 
-        Instantiate(pickuplist[Random.Range(0, pickuplist.Length)].gameObject, transform.position, Quaternion.identity);
-
+        Instantiate(pickuplist[Random.Range(0, pickuplist.Length)].gameObject, transform.position , Quaternion.identity);
+       // gameObject.AddForce(Vector2.up * Time.deltaTime);
     }
     private void OnCollisionEnter2D(Collision2D other)
     {
@@ -19,6 +25,7 @@ public class BoxSpawn : MonoBehaviour
         {
             isQbox = true;
             Debug.Log("Spawn Stuff");
+            
             StartCoroutine(qboxDelay());
            // StartBoxSpawn();
 

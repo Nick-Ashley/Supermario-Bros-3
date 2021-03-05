@@ -21,39 +21,11 @@ public class PlayerMovement : MonoBehaviour
     public bool isFire;
     private Vector3 initialScale;
     public bool isCrouch;
+    public AudioSource audioSource;
+   
 
 
-    int _score = 0;
 
-    public int score
-    {
-        get { return _score; }
-        set
-        {
-            _score = value;
-            Debug.Log("Current Score Is " + _score);
-        }
-    }
-    public int maxlives = 3;
-    int _lives = 3;
-    public int lives
-    {
-        get { return _lives; }
-        set
-        {
-            _lives = value;
-            if (_lives > maxlives)
-            {
-                _lives = maxlives;
-            }
-            else if (_lives < 0)
-            {
-                //run game over code here
-            }
-            Debug.Log("Current Lives Is" + _lives);
-        }
-
-    }
     // Start is called before the first frame update
     void Start()
     {
@@ -98,6 +70,8 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetButtonDown("Fire1"))
         {
             isFire = true;
+           // if (!audioSource.isPlaying)
+           //audioSource.PlayOneShot();
         }
         if (Input.GetButtonUp("Fire1"))
         {
@@ -114,13 +88,7 @@ public class PlayerMovement : MonoBehaviour
             isCrouch = false;
         };
 
-        /*
-        if (Input.GetKeyUp(KeyCode.LeftShift))
-        {
-            isCrouch = false;
-
-        }
-        */
+        
 
         rb.velocity = new Vector2(horizontalInput * speed, rb.velocity.y);
         anim.SetFloat("speed", Mathf.Abs(horizontalInput));
@@ -177,11 +145,11 @@ public class PlayerMovement : MonoBehaviour
     }
 
 
+   
 
 
 
-    
-    
-    
+
+
 }
 

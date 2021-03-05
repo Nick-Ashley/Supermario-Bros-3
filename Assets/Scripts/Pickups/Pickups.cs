@@ -2,8 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class Pickups : MonoBehaviour
 {
+    
+
+  
     // Start is called before the first frame update
     public enum CollectibleType
     {
@@ -28,17 +32,18 @@ public class Pickups : MonoBehaviour
                 break;
             case CollectibleType.RLEAF:
                 Debug.Log("Rleaf");
-                collision.GetComponent<PlayerMovement>().lives++;
+                GameManager.instance.lives++;
+                
                 Destroy(gameObject);
                 break;
             case CollectibleType.RMUSHROOM:
                 Debug.Log("Rmushroom");
-                collision.GetComponent<PlayerMovement>().score++;
+                GameManager.instance.score++;
                 Destroy(gameObject);
                 break;
             case CollectibleType.GLEAF:
                 Debug.Log("Gleaf");
-                collision.GetComponent<PlayerMovement>().score++;
+                GameManager.instance.score++;
                 Destroy(gameObject);
                 break;
             case CollectibleType.COIN:
@@ -48,7 +53,7 @@ public class Pickups : MonoBehaviour
                 break;
             case CollectibleType.STAR:
                 Debug.Log("Star");
-                collision.GetComponent<PlayerMovement>().score++;
+                GameManager.instance.score++;
                 Destroy(gameObject);
                 break;
         }

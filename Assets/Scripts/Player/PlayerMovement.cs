@@ -21,8 +21,8 @@ public class PlayerMovement : MonoBehaviour
     public bool isFire;
     private Vector3 initialScale;
     public bool isCrouch;
-    public AudioSource audioSource;
-   
+    public AudioSource audioSourceFire;
+    public AudioSource audioSourceJump;
 
 
 
@@ -66,12 +66,13 @@ public class PlayerMovement : MonoBehaviour
         {
             rb.velocity = Vector2.zero;
             rb.AddForce(Vector2.up * jumpForce);
+            audioSourceJump.Play();
         }
         if (Input.GetButtonDown("Fire1"))
         {
             isFire = true;
            // if (!audioSource.isPlaying)
-           //audioSource.PlayOneShot();
+           audioSourceFire.Play();
         }
         if (Input.GetButtonUp("Fire1"))
         {

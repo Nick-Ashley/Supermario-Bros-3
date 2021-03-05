@@ -6,6 +6,7 @@ using UnityEngine;
 public class BreakableBox : MonoBehaviour
 {
     private ParticleSystem particle;
+    public AudioSource audioSourceBox;
 
     private void Awake()
     {
@@ -29,7 +30,7 @@ public class BreakableBox : MonoBehaviour
     private IEnumerator Break()
     {
         particle.Play();
-
+        audioSourceBox.Play();
         yield return new WaitForSeconds(particle.main.startLifetime.constantMax); 
         Destroy(gameObject);
     }

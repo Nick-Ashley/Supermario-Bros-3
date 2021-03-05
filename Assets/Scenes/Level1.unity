@@ -1089,6 +1089,16 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5002529786592840679, guid: d1c916c627475ed48a60771efea970d9, type: 3}
   m_PrefabInstance: {fileID: 1300580997}
   m_PrefabAsset: {fileID: 0}
+--- !u!82 &347400265 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 870830919, guid: d1c916c627475ed48a60771efea970d9, type: 3}
+  m_PrefabInstance: {fileID: 1300580997}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &347400266 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 9029351720882429181, guid: d1c916c627475ed48a60771efea970d9, type: 3}
+  m_PrefabInstance: {fileID: 1300580997}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &347400268 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 870830916, guid: d1c916c627475ed48a60771efea970d9, type: 3}
@@ -1575,7 +1585,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: ddeaa991d4a2da94f90f32013fbac3d1, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.858
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -3215,6 +3225,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1324216741}
     m_Modifications:
+    - target: {fileID: 870830916, guid: d1c916c627475ed48a60771efea970d9, type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 347400266}
+    - target: {fileID: 870830916, guid: d1c916c627475ed48a60771efea970d9, type: 3}
+      propertyPath: audioSourceFire
+      value: 
+      objectReference: {fileID: 347400266}
+    - target: {fileID: 870830916, guid: d1c916c627475ed48a60771efea970d9, type: 3}
+      propertyPath: audioSourceJump
+      value: 
+      objectReference: {fileID: 347400265}
     - target: {fileID: 3943701255298102537, guid: d1c916c627475ed48a60771efea970d9, type: 3}
       propertyPath: m_Name
       value: mario_fireidl

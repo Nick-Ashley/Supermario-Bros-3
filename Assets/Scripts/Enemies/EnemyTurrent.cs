@@ -22,6 +22,8 @@ public class EnemyTurrent : MonoBehaviour
 
     public float distance;
     Animator anim;
+
+    public AudioSource audioSourceSquish;
     // Start is called before the first frame update
     void Start()
     {
@@ -82,13 +84,16 @@ public class EnemyTurrent : MonoBehaviour
         {
             health--;
             Destroy(collision.gameObject);
+
             if(health <= 0)
             {
+                audioSourceSquish.Play();
                 Destroy(gameObject);
             }
         }
         if (collision.collider.GetComponent<PlayerMovement>() && collision.contacts[0].normal.y < 0.5f)
         {
+            audioSourceSquish.Play();
             Destroy(gameObject);
             Debug.Log("Destroy turrent");
         }

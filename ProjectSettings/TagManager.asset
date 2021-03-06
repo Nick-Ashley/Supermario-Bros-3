@@ -12,6 +12,7 @@ TagManager:
   - Enemey
   - Squish
   - EnemyProjectile
+  - Pit
   layers:
   - Default
   - TransparentFX

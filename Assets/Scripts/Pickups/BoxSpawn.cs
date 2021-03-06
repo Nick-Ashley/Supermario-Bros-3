@@ -10,8 +10,8 @@ public class BoxSpawn : MonoBehaviour
     public Pickups[] pickuplist;
     private bool isQbox = false;
 
-   
-    
+    //public AudioSource audioSourceBoxSpawn;
+
 
     public void StartBoxSpawn()
     {
@@ -25,7 +25,7 @@ public class BoxSpawn : MonoBehaviour
         {
             isQbox = true;
             Debug.Log("Spawn Stuff");
-            
+            //audioSourceBoxSpawn.Play();
             StartCoroutine(qboxDelay());
            // StartBoxSpawn();
 

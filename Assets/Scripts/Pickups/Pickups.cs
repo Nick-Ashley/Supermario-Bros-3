@@ -5,9 +5,9 @@ using UnityEngine;
 
 public class Pickups : MonoBehaviour
 {
-    
+    public AudioSource audioSourceCoin;
 
-  
+
     // Start is called before the first frame update
     public enum CollectibleType
     {
@@ -48,6 +48,7 @@ public class Pickups : MonoBehaviour
                 break;
             case CollectibleType.COIN:
                 Debug.Log("Coin");
+                audioSourceCoin.Play();
                 collision.GetComponent<PlayerMovement>().StartJumpForceChange();
                 Destroy(gameObject);
                 break;

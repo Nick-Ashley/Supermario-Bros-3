@@ -13,6 +13,7 @@ public class EnemyWalker : MonoBehaviour
 
     public int health;
     public float speed;
+    public AudioSource audioSourceSquish;
 
     // Start is called before the first frame update
     void Start()
@@ -72,6 +73,7 @@ public class EnemyWalker : MonoBehaviour
     }
     public void FinishedDeath()
     {
+        audioSourceSquish.Play();
         Destroy(gameObject);
     }
 }

@@ -9,6 +9,7 @@ public class PlayerCollision : MonoBehaviour
     PlayerMovement pm;
     public Transform MarioStartSpawnPoint;
     public float bounceForce;
+    public AudioSource audioSourceSquish;
     // Start is called before the first frame update
     void Start()
     {
@@ -28,6 +29,7 @@ public class PlayerCollision : MonoBehaviour
                 collision.gameObject.GetComponentInParent<EnemyWalker>().IsSquished();
                 rb.velocity = Vector2.zero;
                 rb.AddForce(Vector2.up * bounceForce);
+                audioSourceSquish.Play();
             }
         }
     }
@@ -47,6 +49,11 @@ public class PlayerCollision : MonoBehaviour
             respawn();
             //Destroy(gameObject);
             //if lives are greater than 0 respan and continue level
+        }
+        if (collision.gameObject.tag == "Pit")
+        {
+            GameManager.instance.lives--;
+            respawn();
         }
     }
 

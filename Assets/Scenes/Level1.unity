@@ -2446,7 +2446,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.013111591, y: 0.30961716}
@@ -3103,8 +3103,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 79.5, y: -15.383}
-  m_SizeDelta: {x: 48.3034, y: 30.767}
+  m_AnchoredPosition: {x: 17.9, y: -15.383}
+  m_SizeDelta: {x: 143.2253, y: 30.767}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &827687132
 MonoBehaviour:
@@ -3139,7 +3139,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 0
+  m_Text: 000000
 --- !u!222 &827687133
 CanvasRenderer:
   m_ObjectHideFlags: 0

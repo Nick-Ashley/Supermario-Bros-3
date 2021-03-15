@@ -17,7 +17,7 @@ public class GameManager : MonoBehaviour
         set { _instance = value; }
     }
 
-    int _score = 0;
+    int _score = 0000000;
     public int score
     {
         get { return _score; }
@@ -104,7 +104,7 @@ public class GameManager : MonoBehaviour
             else if (SceneManager.GetActiveScene().name == "GameOver")
             {
                 _lives = 3;
-                _score = 0;
+                _score = 0000000;
                 Timer = 120.0;
                 SceneManager.LoadScene("TitleScreen");
             }

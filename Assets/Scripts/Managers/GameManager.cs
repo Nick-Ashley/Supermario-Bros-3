@@ -16,6 +16,7 @@ public class GameManager : MonoBehaviour
         get { return _instance; }
         set { _instance = value; }
     }
+
     int _score = 0;
     public int score
     {
@@ -27,7 +28,7 @@ public class GameManager : MonoBehaviour
         }
     }
     public int maxLives = 3;
-    int _lives = 3;
+    int _lives;
     public int lives
     {
         get { return _lives; }
@@ -35,7 +36,7 @@ public class GameManager : MonoBehaviour
         {
             if(_lives > value)
             {
-                
+                SpawnPlayer(currentLevel.spawnLocation);
             }
             _lives = value;
             if (_lives >maxLives)
@@ -50,9 +51,13 @@ public class GameManager : MonoBehaviour
             Debug.Log("current lives is " + _lives);
         }
     }
+    public double  Timer = 120.0;
+    
+
     // Start is called before the first frame update
     void Start()
     {
+
         if (instance)
         {
             Destroy(gameObject);
@@ -67,9 +72,22 @@ public class GameManager : MonoBehaviour
         
     }
 
+    public GameObject playerPrefab;
+    public LevelManager currentLevel;
+    
     // Update is called once per frame
     void Update()
     {
+       if (Timer > 0)
+        {
+            Timer -= Time.deltaTime;
+        }
+        if(Timer < 0)
+        {
+            Timer = 0;
+            SceneManager.LoadScene("GameOver");
+        }
+
         if (Input.GetKeyDown(KeyCode.Escape))
 
         {
@@ -80,23 +98,65 @@ public class GameManager : MonoBehaviour
             }
             else if (SceneManager.GetActiveScene().name == "TitleScreen")
             {
+                
                 SceneManager.LoadScene("Level1");
             }
             else if (SceneManager.GetActiveScene().name == "GameOver")
             {
                 _lives = 3;
                 _score = 0;
+                Timer = 120.0;
                 SceneManager.LoadScene("TitleScreen");
             }
 
         }
         if (Input.GetKeyDown(KeyCode.Backspace))
         {
+            QuitGame();
+        }
+    }
+    public void SpawnPlayer(Transform spawnLocation)
+    {
+        EnemyTurrent turrentEnemy = FindObjectOfType<EnemyTurrent>();
+       // CameraFollow2D mainCamera = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<CameraFollow2D>();
+        // Instantiate(playerPrefab, SpawnLocation.position, SpawnLocation.rotation);
+        CameraFollow2D mainCamera = FindObjectOfType<CameraFollow2D>();
+        if (mainCamera)
+        {
+            mainCamera.player = Instantiate(playerPrefab, spawnLocation.position, spawnLocation.rotation);
+
+            if (turrentEnemy)
+            {
+                turrentEnemy.player = mainCamera.player;
+            }
+
+        }
+        else
+        {
+            SpawnPlayer(spawnLocation);
+        }
+
+    }
+    public void StartGame()
+    {
+       
+        SceneManager.LoadScene("Level1");
+        
+    }
+
+    public void QuitGame()
+    {
+
 #if UNITY_EDITOR
-            EditorApplication.isPlaying = false;
+        EditorApplication.isPlaying = false;
 #else
             Application.Quit();
 #endif
-        }
+
+    }
+    public void ReturnToMenu()
+    {
+        SceneManager.LoadScene("TitleScreen");
+
     }
 }

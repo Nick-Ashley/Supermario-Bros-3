@@ -13,6 +13,7 @@ TagManager:
   - Squish
   - EnemyProjectile
   - Pit
+  - EnemeyWalker
   layers:
   - Default
   - TransparentFX

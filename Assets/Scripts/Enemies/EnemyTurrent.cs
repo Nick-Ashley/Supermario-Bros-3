@@ -87,12 +87,14 @@ public class EnemyTurrent : MonoBehaviour
 
             if(health <= 0)
             {
+                GameManager.instance.score++;
                 audioSourceSquish.Play();
                 Destroy(gameObject);
             }
         }
         if (collision.collider.GetComponent<PlayerMovement>() && collision.contacts[0].normal.y < 0.5f)
         {
+            GameManager.instance.score++;
             audioSourceSquish.Play();
             Destroy(gameObject);
             Debug.Log("Destroy turrent");

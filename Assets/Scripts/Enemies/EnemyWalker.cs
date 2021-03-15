@@ -49,9 +49,23 @@ public class EnemyWalker : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "Barrier") 
+        if (collision.gameObject.tag == "Barrier")
         {
             sr.flipX = !sr.flipX;
+        }
+       
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "MarioProjectile")
+        {
+            health--;
+            Debug.Log("firhit");
+            if (health < 0)
+            {
+                GameManager.instance.score++;
+                Destroy(gameObject);
+            }
         }
     }
 
@@ -73,7 +87,9 @@ public class EnemyWalker : MonoBehaviour
     }
     public void FinishedDeath()
     {
+        GameManager.instance.score++;
         audioSourceSquish.Play();
         Destroy(gameObject);
+
     }
 }

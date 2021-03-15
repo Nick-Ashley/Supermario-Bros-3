@@ -7,7 +7,7 @@ public class PlayerCollision : MonoBehaviour
 {
     Rigidbody2D rb;
     PlayerMovement pm;
-    public Transform MarioStartSpawnPoint;
+    
     public float bounceForce;
     public AudioSource audioSourceSquish;
     // Start is called before the first frame update
@@ -35,30 +35,27 @@ public class PlayerCollision : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        
         if (collision.gameObject.tag == "EnemyProjectile")
         {
             GameManager.instance.lives--;
-            Destroy(collision.gameObject);
-            respawn();
-           // Destroy(gameObject);
+            Destroy(collision.gameObject);           
+            Destroy(gameObject);
             //if lives are greater than 0 respan and continue level
         }
-        if (collision.gameObject.tag == "Enemey")
+       else if (collision.gameObject.tag == "EnemeyWalker")
         {
             GameManager.instance.lives--;
-            respawn();
-            //Destroy(gameObject);
-            //if lives are greater than 0 respan and continue level
+            Destroy(gameObject);
+
         }
-        if (collision.gameObject.tag == "Pit")
+       else if (collision.gameObject.tag == "Pit")
         {
             GameManager.instance.lives--;
-            respawn();
+          
+            Destroy(gameObject);
         }
     }
 
-    public void respawn()
-    {
-        this.transform.position = MarioStartSpawnPoint.position;
-    }
+    
 }

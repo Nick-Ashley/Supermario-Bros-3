@@ -104,10 +104,13 @@ public class PlayerMovement : MonoBehaviour
         
     }
 
-   
-    
 
-    public void StartJumpForceChange()
+
+    public void ShowMushromImage()
+    { 
+    
+    }
+        public void StartJumpForceChange()
     {
         StartCoroutine(JumpForceChange());
 
@@ -137,6 +140,7 @@ public class PlayerMovement : MonoBehaviour
 
                     case Pickups.CollectibleType.QCOIN:
                         //Add ComponentMenu to Inventory r Other Mechanic
+                        GameManager.instance.score++;
                         Destroy(collision.gameObject);
                         break;
                 }

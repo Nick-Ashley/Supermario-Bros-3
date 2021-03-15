@@ -5,7 +5,7 @@ using UnityEngine;
 public class CameraFollow2D : MonoBehaviour
 {
     [SerializeField]
-    GameObject player;
+    public GameObject player;
 
     [SerializeField]
     float timeOffSet;

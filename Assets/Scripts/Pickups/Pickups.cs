@@ -38,6 +38,8 @@ public class Pickups : MonoBehaviour
                 break;
             case CollectibleType.RMUSHROOM:
                 Debug.Log("Rmushroom");
+                CanvisManager canvisManager = FindObjectOfType<CanvisManager>();
+                canvisManager.MushroomImage.SetActive(true);
                 GameManager.instance.score++;
                 Destroy(gameObject);
                 break;
@@ -49,6 +51,7 @@ public class Pickups : MonoBehaviour
             case CollectibleType.COIN:
                 Debug.Log("Coin");
                 audioSourceCoin.Play();
+                GameManager.instance.score++;
                 collision.GetComponent<PlayerMovement>().StartJumpForceChange();
                 Destroy(gameObject);
                 break;
@@ -60,4 +63,8 @@ public class Pickups : MonoBehaviour
         }
     }
 
+    private static void NewMethod(CanvisManager canvisManager)
+    {
+        canvisManager.ShowMushromImage();
+    }
 }

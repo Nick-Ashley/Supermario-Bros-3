@@ -14,18 +14,22 @@ public class CanvisManager : MonoBehaviour
     public Button returnToMenubutton;
     public Button Settingsbutton;
     public Button SettingsbuttonPause;
+    public Button BackToPausebutton;
     [Header("Text")]
     public Text LivesText;
     public Text ScoreText;
     public Text VolText;
     public Text TimeText;
+    public Text PauseVolText;
     [Header("Menus")]
     public GameObject PauseMenu;
     public GameObject mainMenu;
     public GameObject settingsMenu;
-    
+    public GameObject pauseSettingsMenu;
+
     [Header("Sliders")]
     public Slider Vslider;
+    public Slider PauseVslider;
     public int volume;
     [Header("Powerup")]
     public GameObject MushroomImage;
@@ -73,6 +77,10 @@ public class CanvisManager : MonoBehaviour
         {
             SettingsbuttonPause.onClick.AddListener(() => ShowSettingsMenuPause());
         }
+        if (BackToPausebutton)
+        {
+            BackToPausebutton.onClick.AddListener(() => ShowPauseMenuPause());
+        }
     }
         // Update is called once per frame
     void Update()
@@ -83,14 +91,7 @@ public class CanvisManager : MonoBehaviour
             {
 
                 MushroomImage.SetActive(!MushroomImage.activeSelf);
-                //if (IsMushroom)
-                //{
-                //    ShowMushromImage();
-                //}
-                //else
-                //{
-                //    NoMushromImage();
-                //}
+                
             }
         }
 
@@ -134,6 +135,15 @@ public class CanvisManager : MonoBehaviour
                     //VolText.text = Vslider.value.ToString();
                 }
             }
+        if (pauseSettingsMenu)
+        {
+            if (pauseSettingsMenu.activeSelf)
+            {
+                PauseVolText.text = (PauseVslider.value * 100).ToString();
+
+                //VolText.text = Vslider.value.ToString();
+            }
+        }
     }
 
         void Resume()
@@ -164,12 +174,12 @@ public class CanvisManager : MonoBehaviour
         void ShowSettingsMenuPause()
         {
              PauseMenu.SetActive(false);
-             settingsMenu.SetActive(true);
+             pauseSettingsMenu.SetActive(true);
         }
          void ShowPauseMenuPause()
          {
              PauseMenu.SetActive(true);
-             settingsMenu.SetActive(false);
+             pauseSettingsMenu.SetActive(false);
          }
          public void ShowMushromImage()
          {

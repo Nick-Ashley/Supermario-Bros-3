@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6240751353487151251}
   - component: {fileID: 6240751353487151255}
   - component: {fileID: 6790674825383078006}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: breakablebox1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -156,7 +156,7 @@ AudioSource:
   m_GameObject: {fileID: 6240751353487151250}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 24300002, guid: 269e247787e2a934bb146013fbcbf599, type: 2}
   m_audioClip: {fileID: 8300000, guid: 6be84629f3a8650489aa829da62a1c98, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 
 public class CanvisManager : MonoBehaviour
@@ -16,6 +17,7 @@ public class CanvisManager : MonoBehaviour
     public Button SettingsbuttonPause;
     public Button BackToPausebutton;
     [Header("Text")]
+    public Text CoinText;
     public Text LivesText;
     public Text ScoreText;
     public Text VolText;
@@ -33,14 +35,27 @@ public class CanvisManager : MonoBehaviour
     public int volume;
     [Header("Powerup")]
     public GameObject MushroomImage;
+    public GameObject FlowerImage;
+    public GameObject StarImage;
 
     public static bool IsGamePaused = false;
     public static bool IsMushroom = true;
+    public static bool IsFlower = true;
+    public static bool IsStar = true;
+
+    public AudioClip pauseSound;
+    AudioSource pauseAudio;
+
     // Start is called before the first frame update
     void Start()
     {
-       
 
+        if (PauseMenu)
+        {
+            pauseAudio = gameObject.AddComponent<AudioSource>();
+            pauseAudio.clip = pauseSound;
+            pauseAudio.loop = false;
+        }
 
         
 
@@ -48,6 +63,8 @@ public class CanvisManager : MonoBehaviour
         if (startButton)
         {
             startButton.onClick.AddListener(() => GameManager.instance.StartGame());
+
+            
         }
         if (quitbutton)
         {
@@ -94,20 +111,40 @@ public class CanvisManager : MonoBehaviour
                 
             }
         }
+        if (FlowerImage)
+        {
+            if (Input.GetKeyDown(KeyCode.L))
+            {
 
-            if (LivesText)
-            {
-                LivesText.text = GameManager.instance.lives.ToString();
-            }
+                FlowerImage.SetActive(!FlowerImage.activeSelf);
 
-            if (ScoreText)
-            {
-                ScoreText.text = GameManager.instance.score.ToString();
             }
-            if (TimeText)
+        }
+        if (StarImage)
+        {
+            if (Input.GetKeyDown(KeyCode.J))
             {
-                TimeText.text = GameManager.instance.Timer.ToString();
+
+                StarImage.SetActive(!StarImage.activeSelf);
+
             }
+        }
+        if (LivesText)
+        {
+            LivesText.text = GameManager.instance.lives.ToString();
+        }
+        if (CoinText)
+        {
+            CoinText.text = GameManager.instance.coin.ToString();
+        }
+        if (ScoreText)
+        {
+             ScoreText.text = GameManager.instance.score.ToString();
+        }
+        if (TimeText)
+        {
+             TimeText.text = GameManager.instance.Timer.ToString();
+        }
 
         if (PauseMenu)
         {
@@ -117,12 +154,14 @@ public class CanvisManager : MonoBehaviour
 
                     if (IsGamePaused)
                     {
+                        pauseAudio.Play();
                         Resume();
-
+                    
                     }
                     else
                     {
-                        PauseGame();
+                    pauseAudio.Play();
+                    PauseGame();
                     }
                 }
         }
@@ -132,7 +171,7 @@ public class CanvisManager : MonoBehaviour
                 {
                 VolText.text = (Vslider.value * 100).ToString();
 
-                    //VolText.text = Vslider.value.ToString();
+                    
                 }
             }
         if (pauseSettingsMenu)
@@ -141,7 +180,7 @@ public class CanvisManager : MonoBehaviour
             {
                 PauseVolText.text = (PauseVslider.value * 100).ToString();
 
-                //VolText.text = Vslider.value.ToString();
+               
             }
         }
     }
@@ -199,5 +238,42 @@ public class CanvisManager : MonoBehaviour
 
 
          }
+
+        public void ShowFlowerImage()
+        {
+
+            IsFlower = true;
+            FlowerImage.SetActive(true);
+
+
+
+        }
+        public void NoFlowerImage()
+        {
+
+            IsFlower = false;
+            FlowerImage.SetActive(false);
+
+
+
+        }
+        public void ShowStarImage()
+        {
+
+        IsStar = true;
+        StarImage.SetActive(true);
+
+
+
+        }
+        public void NoStarImage()
+        {
+
+        IsStar = false;
+        StarImage.SetActive(false);
+
+
+
+        }
 }
 

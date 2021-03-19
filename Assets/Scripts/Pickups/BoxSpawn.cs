@@ -10,8 +10,8 @@ public class BoxSpawn : MonoBehaviour
     public Pickups[] pickuplist;
     private bool isQbox = false;
 
-    //public AudioSource audioSourceBoxSpawn;
-
+    public AudioClip audioSourceBoxSpawn;
+    AudioSource boxSpawnAudio;
 
     public void StartBoxSpawn()
     {
@@ -19,13 +19,19 @@ public class BoxSpawn : MonoBehaviour
         Instantiate(pickuplist[Random.Range(0, pickuplist.Length)].gameObject, transform.position , Quaternion.identity);
        // gameObject.AddForce(Vector2.up * Time.deltaTime);
     }
+    public void Start()
+    {
+        boxSpawnAudio = GetComponent<AudioSource>();
+    }
     private void OnCollisionEnter2D(Collision2D other)
     {
         if (other.collider.GetComponent<PlayerMovement>() && other.contacts[0].normal.y > 0.5f)
         {
             isQbox = true;
             Debug.Log("Spawn Stuff");
-            //audioSourceBoxSpawn.Play();
+            boxSpawnAudio.loop = false;
+            boxSpawnAudio.clip = audioSourceBoxSpawn;
+            boxSpawnAudio.Play();
             StartCoroutine(qboxDelay());
            // StartBoxSpawn();
 

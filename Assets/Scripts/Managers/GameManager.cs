@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEditor;
+using UnityEngine.UI;
 
 
 
 public class GameManager : MonoBehaviour
 {
-    
+
 
     static GameManager _instance = null;
     public static GameManager instance
@@ -27,8 +28,20 @@ public class GameManager : MonoBehaviour
             Debug.Log("current score is " + _score);
         }
     }
+    int _coin = 0;
+    public int coin
+    {
+        get { return _coin; }
+        set
+        {
+            _coin = value;
+            Debug.Log("current score is " + _score);
+        }
+    }
     public int maxLives = 3;
     int _lives;
+
+
     public int lives
     {
         get { return _lives; }
@@ -100,6 +113,7 @@ public class GameManager : MonoBehaviour
             {
                 
                 SceneManager.LoadScene("Level1");
+                
             }
             else if (SceneManager.GetActiveScene().name == "GameOver")
             {
@@ -114,12 +128,13 @@ public class GameManager : MonoBehaviour
         {
             QuitGame();
         }
+      
+        
+        
     }
     public void SpawnPlayer(Transform spawnLocation)
     {
         EnemyTurrent turrentEnemy = FindObjectOfType<EnemyTurrent>();
-       // CameraFollow2D mainCamera = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<CameraFollow2D>();
-        // Instantiate(playerPrefab, SpawnLocation.position, SpawnLocation.rotation);
         CameraFollow2D mainCamera = FindObjectOfType<CameraFollow2D>();
         if (mainCamera)
         {
@@ -141,7 +156,7 @@ public class GameManager : MonoBehaviour
     {
        
         SceneManager.LoadScene("Level1");
-        
+       
     }
 
     public void QuitGame()
@@ -159,4 +174,5 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene("TitleScreen");
 
     }
+    
 }

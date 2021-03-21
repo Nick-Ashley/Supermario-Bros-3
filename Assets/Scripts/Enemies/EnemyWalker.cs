@@ -67,6 +67,10 @@ public class EnemyWalker : MonoBehaviour
                 Destroy(gameObject);
             }
         }
+        if (collision.gameObject.tag == "Pit")
+        {
+            Destroy(gameObject);
+        }
     }
 
     public void IsDead()

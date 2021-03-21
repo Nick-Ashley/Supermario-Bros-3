@@ -91,6 +91,8 @@ public class Pickups : MonoBehaviour
             case CollectibleType.STAR:
                 Debug.Log("Star");
                 canvisManager.StarImage.SetActive(true);
+                Destroy(GetComponent<Animator>());
+                GetComponent<SpriteRenderer>().sprite = null;
                 GameManager.instance.score+=10;
                 Destroy(gameObject);
                 break;

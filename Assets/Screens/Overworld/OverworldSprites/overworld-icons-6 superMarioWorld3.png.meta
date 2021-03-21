@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: 60d630ab9df478245a66806aad097345
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7615304443886552348
+    second: overworld-icons-6 superMarioWorld3_0
+  - first:
+      213: 8529992882170568489
+    second: help
+  - first:
+      213: 5565520912425651602
+    second: overworld-icons-6 superMarioWorld3_2
+  - first:
+      213: -3499553117667767669
+    second: overworld-icons-6 superMarioWorld3_3
+  - first:
+      213: -6539752165171626673
+    second: overworld-icons-6 superMarioWorld3_4
+  - first:
+      213: 7565524204271062097
+    second: overworld-icons-6 superMarioWorld3_5
+  - first:
+      213: -6217469764047852623
+    second: overworld-icons-6 superMarioWorld3_6
+  - first:
+      213: -4760525787335288575
+    second: overworld-icons-6 superMarioWorld3_7
+  - first:
+      213: 3871458357390505754
+    second: overworld-icons-6 superMarioWorld3_8
+  - first:
+      213: 3825447506080435817
+    second: overworld-icons-6 superMarioWorld3_9
+  - first:
+      213: 7890672758715158541
+    second: overworld-icons-6 superMarioWorld3_10
+  - first:
+      213: -7164017248827376699
+    second: overworld-icons-6 superMarioWorld3_11
+  - first:
+      213: -3948183865896659996
+    second: overworld-icons-6 superMarioWorld3_12
+  - first:
+      213: 4318555952443667305
+    second: overworld-icons-6 superMarioWorld3_13
+  - first:
+      213: -3629212389607839190
+    second: overworld-icons-6 superMarioWorld3_14
+  - first:
+      213: 4969842560927123360
+    second: overworld-icons-6 superMarioWorld3_15
+  - first:
+      213: 5737192191944211018
+    second: boss1
+  - first:
+      213: -8142076611269430164
+    second: boss2
+  - first:
+      213: 4613922523893593681
+    second: Mariofinish
+  - first:
+      213: 4203929361284992712
+    second: overworld-icons-6 superMarioWorld3_19
+  - first:
+      213: 2564760717911863039
+    second: overworld-icons-6 superMarioWorld3_20
+  - first:
+      213: 8374844601421862963
+    second: overworld-icons-6 superMarioWorld3_21
+  - first:
+      213: -5424617586244199677
+    second: overworld-icons-6 superMarioWorld3_22
+  - first:
+      213: 4878103358237662366
+    second: overworld-icons-6 superMarioWorld3_23
+  - first:
+      213: 7599973187421422480
+    second: overworld-icons-6 superMarioWorld3_24
+  - first:
+      213: 4630162006072643345
+    second: overworld-icons-6 superMarioWorld3_25
+  - first:
+      213: 2673321733296223502
+    second: overworld-icons-6 superMarioWorld3_26
+  - first:
+      213: 2994346969619456353
+    second: overworld-icons-6 superMarioWorld3_27
+  - first:
+      213: 2713540138104561370
+    second: overworld-icons-6 superMarioWorld3_28
+  - first:
+      213: 5785358914349988557
+    second: overworld-icons-6 superMarioWorld3_29
+  - first:
+      213: -6581734363749430177
+    second: overworld-icons-6 superMarioWorld3_31
+  - first:
+      213: -3827091450630724114
+    second: overworld-icons-6 superMarioWorld3_33
+  - first:
+      213: -8344084868571912403
+    second: overworld-icons-6 superMarioWorld3_34
+  - first:
+      213: -520305764830454439
+    second: overworld-icons-6 superMarioWorld3_35
+  - first:
+      213: -1885802793517157395
+    second: overworld-icons-6 superMarioWorld3_36
+  - first:
+      213: -8349349655245282502
+    second: overworld-icons-6 superMarioWorld3_37
+  - first:
+      213: 7210610761356348531
+    second: mairo1
+  - first:
+      213: -749447265980517995
+    second: mairo2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15cf4a4b0ffea960800000000000000
+      internalID: 7615304443886552348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: help
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 115
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f136e155f906670800000000000000
+      internalID: 8529992882170568489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 114
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d832f48c3bc3d40800000000000000
+      internalID: 5565520912425651602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 114
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a4dcc1bf61f6fc0800000000000000
+      internalID: -3499553117667767669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 114
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d7adb0e022e35a0800000000000000
+      internalID: -6539752165171626673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 114
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c423f0e242ef860800000000000000
+      internalID: 7565524204271062097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 118
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb2230f03c17b9a0800000000000000
+      internalID: -6217469764047852623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 119
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1091bcdc4073fedb0800000000000000
+      internalID: -4760525787335288575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 115
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a177afa3dde2ab530800000000000000
+      internalID: 3871458357390505754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 115
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e04da1d38b61530800000000000000
+      internalID: 3825447506080435817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d009116411d418d60800000000000000
+      internalID: 7890672758715158541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb7fdec44c449c90800000000000000
+      internalID: -7164017248827376699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e31d4d31bb3539c0800000000000000
+      internalID: -3948183865896659996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963bd0012c79eeb30800000000000000
+      internalID: 4318555952443667305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a6afe5f8272adc0800000000000000
+      internalID: -3629212389607839190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7cda15a7d68f440800000000000000
+      internalID: 4969842560927123360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4abaf0d6e99e9f40800000000000000
+      internalID: 5737192191944211018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64f44be578810f80800000000000000
+      internalID: -8142076611269430164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mariofinish
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156f9d10712f70040800000000000000
+      internalID: 4613922523893593681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce0a301b7b575a30800000000000000
+      internalID: 4203929361284992712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe2305c84cd79320800000000000000
+      internalID: 2564760717911863039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33819dc0bcc693470800000000000000
+      internalID: 8374844601421862963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bd391db03e7b4b0800000000000000
+      internalID: -5424617586244199677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c5565b82182b340800000000000000
+      internalID: 4878103358237662366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0934fbaf857887960800000000000000
+      internalID: 7599973187421422480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f487810d3a14040800000000000000
+      internalID: 4630162006072643345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05f37bd3fb891520800000000000000
+      internalID: 2673321733296223502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1616f6244be0e8920800000000000000
+      internalID: 2994346969619456353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade9c7fe06e68a520800000000000000
+      internalID: 2713540138104561370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca78fbc749b94050800000000000000
+      internalID: 5785358914349988557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ccbbab77bf8a4a0800000000000000
+      internalID: -6581734363749430177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5a83a3a9073eac0800000000000000
+      internalID: -3827091450630724114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d272f09550bd33c80800000000000000
+      internalID: -8344084868571912403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_35
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d51b0e9a087c8f0800000000000000
+      internalID: -520305764830454439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de378f7c95844d5e0800000000000000
+      internalID: -1885802793517157395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overworld-icons-6 superMarioWorld3_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33239da9b6212c80800000000000000
+      internalID: -8349349655245282502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mairo1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 64
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c0144b84c311460800000000000000
+      internalID: 7210610761356348531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mairo2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 64
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591f75daead6995f0800000000000000
+      internalID: -749447265980517995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

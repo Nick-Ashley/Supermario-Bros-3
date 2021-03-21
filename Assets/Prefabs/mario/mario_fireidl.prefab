@@ -233,7 +233,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
-  jumpForce: 210
+  jumpForce: 225
   isGrounded: 1
   isGroundLayer:
     serializedVersion: 2

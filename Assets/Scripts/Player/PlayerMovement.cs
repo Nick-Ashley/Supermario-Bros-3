@@ -70,9 +70,13 @@ public class PlayerMovement : MonoBehaviour
         }
         if (Input.GetButtonDown("Fire1"))
         {
-            isFire = true;
-           // if (!audioSource.isPlaying)
-           audioSourceFire.Play();
+            if (CanvisManager.IsGamePaused == false)
+            {
+
+                isFire = true;
+                // if (!audioSource.isPlaying)
+                audioSourceFire.Play();
+            }
         }
         if (Input.GetButtonUp("Fire1"))
         {

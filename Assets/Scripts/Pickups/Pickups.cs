@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 
 public class Pickups : MonoBehaviour
@@ -94,6 +96,8 @@ public class Pickups : MonoBehaviour
                 Destroy(GetComponent<Animator>());
                 GetComponent<SpriteRenderer>().sprite = null;
                 GameManager.instance.score+=10;
+                SceneManager.LoadScene("TitleScreen");
+                GameManager.instance.Timer = 120.0;
                 Destroy(gameObject);
                 break;
         }

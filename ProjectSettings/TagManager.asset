@@ -14,6 +14,8 @@ TagManager:
   - EnemyProjectile
   - Pit
   - EnemeyWalker
+  - Tube
+  - TubeExit
   layers:
   - Default
   - TransparentFX

@@ -23,9 +23,9 @@ public class PlayerMovement : MonoBehaviour
     public bool isCrouch;
     public AudioSource audioSourceFire;
     public AudioSource audioSourceJump;
-
-
-
+    public GameObject playerPrefab;
+    public Transform tubeEnterSpawnLocation;
+    public Transform tubeExitSpawnLocation;
     // Start is called before the first frame update
     void Start()
     {
@@ -83,7 +83,7 @@ public class PlayerMovement : MonoBehaviour
             isFire = false;
         }
         
-        if (Input.GetKey(KeyCode.LeftShift) && Input.GetKey(KeyCode.F))
+        if (Input.GetKey(KeyCode.LeftShift) && Input.GetKey(KeyCode.S))
         {
             isCrouch = true;
 
@@ -152,11 +152,23 @@ public class PlayerMovement : MonoBehaviour
         }
 
     }
+    
 
 
    
 
-
+    private void OnTriggerStay2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Tube" && isCrouch == true)
+        {
+            Debug.Log("tube enter");
+            GameManager.instance.TubeEnterSpawn(tubeEnterSpawnLocation);
+        }
+        if (collision.gameObject.tag == "TubeExit")
+        {
+            GameManager.instance.TubeExitSpawn(tubeExitSpawnLocation);
+        }
+    }
 
 
 

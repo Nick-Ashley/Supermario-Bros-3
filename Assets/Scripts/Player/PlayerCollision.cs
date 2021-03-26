@@ -32,6 +32,7 @@ public class PlayerCollision : MonoBehaviour
                 audioSourceSquish.Play();
             }
         }
+       
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -55,6 +56,9 @@ public class PlayerCollision : MonoBehaviour
           
             Destroy(gameObject);
         }
+
+       
+        
     }
 
     

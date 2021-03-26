@@ -138,6 +138,7 @@ public class GameManager : MonoBehaviour
         CameraFollow2D mainCamera = FindObjectOfType<CameraFollow2D>();
         if (mainCamera)
         {
+            
             mainCamera.player = Instantiate(playerPrefab, spawnLocation.position, spawnLocation.rotation);
 
             if (turrentEnemy)
@@ -149,6 +150,46 @@ public class GameManager : MonoBehaviour
         else
         {
             SpawnPlayer(spawnLocation);
+        }
+
+    }
+    public void TubeEnterSpawn(Transform tubeEnterSpawnLocation)
+    {
+        EnemyTurrent turrentEnemy = FindObjectOfType<EnemyTurrent>();
+        CameraFollow2D mainCamera = FindObjectOfType<CameraFollow2D>();
+        if (mainCamera)
+        {
+            mainCamera.player = Instantiate(playerPrefab, tubeEnterSpawnLocation.position, tubeEnterSpawnLocation.rotation);
+
+            if (turrentEnemy)
+            {
+                turrentEnemy.player = mainCamera.player;
+            }
+
+        }
+        else
+        {
+            TubeEnterSpawn(tubeEnterSpawnLocation);
+        }
+
+    }
+    public void TubeExitSpawn(Transform tubeExitSpawnLocation)
+    {
+        EnemyTurrent turrentEnemy = FindObjectOfType<EnemyTurrent>();
+        CameraFollow2D mainCamera = FindObjectOfType<CameraFollow2D>();
+        if (mainCamera)
+        {
+            mainCamera.player = Instantiate(playerPrefab, tubeExitSpawnLocation.position, tubeExitSpawnLocation.rotation);
+
+            if (turrentEnemy)
+            {
+                turrentEnemy.player = mainCamera.player;
+            }
+
+        }
+        else
+        {
+            TubeExitSpawn(tubeExitSpawnLocation);
         }
 
     }

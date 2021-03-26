@@ -40,7 +40,7 @@ public class Projectile : MonoBehaviour
         {
 
 
-            if (collision.gameObject.tag == "EnemyWalker" || collision.gameObject.tag == "Squish")
+            if (collision.gameObject.tag == "EnemyWalker" || collision.gameObject.tag == "Squish" )
             {
                 
                 collision.gameObject.GetComponent<EnemyWalker>().IsDead();
@@ -48,7 +48,17 @@ public class Projectile : MonoBehaviour
                 Destroy(gameObject);
             }
             if (collision.gameObject.layer == LayerMask.NameToLayer("ground"))
+            {
                 Destroy(gameObject);
+            }
+               
+            if(collision.gameObject.tag == "MarioProjectile")
+            {
+                Destroy(gameObject);
+            }
+
+
+
         }
         if(gameObject.tag == "EnemyProjectile") 
         {

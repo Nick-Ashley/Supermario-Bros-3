@@ -6,11 +6,13 @@ public class LevelManager : MonoBehaviour
 {
     public int startingLives;
     public Transform spawnLocation;
-
+    public Transform tubeEnterSpawnLocation;
+    public Transform tubeExitSpawnLocation;
     // Start is called before the first frame update
     void Start()
     {
         GameManager.instance.SpawnPlayer(spawnLocation);
+        
         GameManager.instance.lives = startingLives;
         GameManager.instance.currentLevel = GetComponent<LevelManager>();
         

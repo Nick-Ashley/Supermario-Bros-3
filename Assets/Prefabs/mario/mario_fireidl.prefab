@@ -244,6 +244,9 @@ MonoBehaviour:
   isCrouch: 0
   audioSourceFire: {fileID: 9029351720882429181}
   audioSourceJump: {fileID: 870830919}
+  playerPrefab: {fileID: 3943701255298102537}
+  tubeEnterSpawnLocation: {fileID: 1632403904733222395, guid: c5a669a35d057ea48878c62f6ae5cc23, type: 3}
+  tubeExitSpawnLocation: {fileID: 5109218749388582962, guid: 6ad33d5e35f6d2f47836784ac29765ca, type: 3}
 --- !u!114 &870830917
 MonoBehaviour:
   m_ObjectHideFlags: 0
